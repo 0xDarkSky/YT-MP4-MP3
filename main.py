@@ -1,8 +1,9 @@
+import os
+import time
+
 try:
     import PySimpleGUI as sg
     from pytube import YouTube
-    import os
-    import time
 except ImportError:
     os.system("pip install pysimplegui")
     os.system("pip install pytube")
