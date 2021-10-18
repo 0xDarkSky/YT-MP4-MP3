@@ -12,8 +12,11 @@ Enter the URL of the video
 
 Enter the PATH of where you want it installed (leave blank if you want it in the same directory as the script is)
 
+You can also use the compiled `main.exe`, but VirusTotal detects it as malware (most likely because it's Python), I still highly recommend compiling it to an .exe yourself if you need one.
+
 # Dependencies to install
 
 `pip install pysimplegui`
 
 `pip install pytube`
+
