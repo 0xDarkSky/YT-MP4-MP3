@@ -12,7 +12,9 @@ Enter the URL of the video
 
 Enter the PATH of where you want it installed (leave blank if you want it in the same directory as the script is)
 
-**You can also download playlists!**
+# You can also download playlists
+
+![bruh-2021-10-20_19 28 29](https://user-images.githubusercontent.com/84932430/138134606-7794e03e-5250-4233-986f-fbf03c08e995.gif)
 
 # Dependencies to install
 
