@@ -14,7 +14,7 @@ Enter the PATH of where you want it installed (leave blank if you want it in the
 
 # You can also download playlists
 
-![bruh-2021-10-20_19 28 29](https://user-images.githubusercontent.com/84932430/138134606-7794e03e-5250-4233-986f-fbf03c08e995.gif)
+https://user-images.githubusercontent.com/84932430/138134785-afa7f185-efac-46e2-84d0-7be872cbef12.mp4
 
 # Dependencies to install
 
