@@ -8,6 +8,8 @@ Improved Python UI to convert Youtube URL to .mp3 file.
 
 Just run `python3 main.py`
 
+You can also try `newmain.py`, it's a MP3 and MP4 downloader, I haven't tested it much, *could be a little unstable*
+
 Enter the URL of the video
 
 Enter the PATH of where you want it installed (leave blank if you want it in the same directory as the script is)
