@@ -1,13 +1,12 @@
 import os
 import time
 
-try:
-    import PySimpleGUI as sg
-    from pytube import YouTube, Playlist
-    import re
-except ImportError:
-    os.system("pip install pysimplegui")
-    os.system("pip install pytube")
+import PySimpleGUI as sg
+from pytube import YouTube, Playlist
+import re
+
+#os.system("pip install pysimplegui")
+#os.system("pip install pytube")
 
 def main():
 
