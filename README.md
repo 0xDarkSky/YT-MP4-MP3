@@ -16,6 +16,8 @@ Enter the PATH of where you want it installed (leave blank if you want it in the
 
 # You can also download playlists
 
+Make sure to make the playlist publicly visible (you can disable this after downloaded)
+
 https://user-images.githubusercontent.com/84932430/138134785-afa7f185-efac-46e2-84d0-7be872cbef12.mp4
 
 # Dependencies to install
